@@ -23,9 +23,9 @@ Building intelligent, scalable applications by combining modern web technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### 🤖 AI / GenAI
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
