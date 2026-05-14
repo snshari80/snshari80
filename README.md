@@ -17,20 +17,20 @@ Building intelligent, scalable applications by combining modern web technologies
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+### 🤖 AI / GenAI
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000)
+![LLM](https://img.shields.io/badge/-LLMs-000)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-### 🤖 AI / GenAI
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-000)
-![LLM](https://img.shields.io/badge/-LLMs-000)
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
