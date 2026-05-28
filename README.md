@@ -8,11 +8,10 @@ Building intelligent, scalable applications by combining modern web technologies
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer transitioning into **Generative AI**
-- 🤖 Exploring **LLMs, AI workflows, and automation**
+- 💻 Working as a **Generative AI** Engineer building real-world AI applications
+- 🤖 Focused on production-grade AI systems, scalability, and performance
 - ⚡ Focused on building **real-world AI-powered products**
-- 🌱 Currently learning: **LangChain, RAG, AI Agents**
-
+- 🌱 Exploring advanced AI architectures, evaluation, and optimization 
 ---
 
 ## 🛠️ Tech Stack
