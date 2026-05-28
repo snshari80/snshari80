@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Nagarajan S</h1>
-<h3 align="center">Full Stack Developer → Generative AI Engineer</h3>
+<h3 align="center">Generative AI Engineer</h3>
 
 <p align="center">
 Building intelligent, scalable applications by combining modern web technologies with AI.
