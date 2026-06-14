@@ -42,12 +42,14 @@ Building intelligent, scalable applications by combining modern web technologies
 
 ---
 
-## 📊 GitHub Stats
+**Core Expertise:**
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
-</p>
+* 🧠 Large Language Models (LLMs) – Prompt Engineering, RAG, Agents
+* 🔍 Semantic Search & Retrieval – Vector DB, OpenSearch
+* 📊 Machine Learning & Deep Learning fundamentals
+* 🗣️ Natural Language Processing (NLP)
+* 🔗 LangChain for building AI workflows & pipelines
+* ⚡ Production-ready AI systems (scalable & optimized)
 
 ---
 
