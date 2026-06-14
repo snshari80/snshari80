@@ -18,8 +18,13 @@ Building intelligent, scalable applications by combining modern web technologies
 
 ### 🤖 AI / GenAI
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![LLMs](https://img.shields.io/badge/-LLMs-000)
 ![LangChain](https://img.shields.io/badge/-LangChain-000)
-![LLM](https://img.shields.io/badge/-LLMs-000)
+![Vector DB](https://img.shields.io/badge/-Vector%20Databases-000)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-000)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000)
+![NLP](https://img.shields.io/badge/-NLP-000)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
