@@ -72,16 +72,15 @@ A multi-agent orchestration system built with **LangGraph**, coordinating three 
 
 [🔗 Interact with AI Agents :)](https://multi-agent-ui-six.vercel.app/)
 
-[🔗 View Repo](https://github.com/snshari80/multi-agent-ui)
-[🔗 View Repo](https://github.com/snshari80/multi-ai-agent)
-
 ### 📖 RAG Pipeline with AWS Ingestion
 A Retrieval-Augmented Generation system with a custom AWS-based ingestion pipeline for indexing and retrieving documents efficiently for LLM-powered Q&A.
 
-[🔗 View Repo](https://github.com/snshari80/rag-aws-ingestion)
-
 - 🌐 AI-powered Full stack scalable applications
 - ⚡ Automation tools using AI
+
+[🔗 View Repo](https://github.com/snshari80/multi-agent-ui)
+[🔗 View Repo](https://github.com/snshari80/multi-ai-agent)
+[🔗 View Repo](https://github.com/snshari80/rag-aws-ingestion)
 
 ---
 
