@@ -37,7 +37,6 @@ Building intelligent, scalable applications by combining modern web technologies
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
