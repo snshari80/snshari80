@@ -18,14 +18,14 @@ Building intelligent, scalable applications by combining modern web technologies
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / GenAI
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 ![LLMs](https://img.shields.io/badge/-LLMs-000)
-![LangChain](https://img.shields.io/badge/-LangChain-000)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000)
-![RAG](https://img.shields.io/badge/-RAG-000)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=huggingface)
-![FAISS](https://img.shields.io/badge/-FAISS-000)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000)
+![LangChain](https://img.shields.io/badge/-LangChain-000)
+![RAG](https://img.shields.io/badge/-RAG-000)
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-000)
+![FAISS](https://img.shields.io/badge/-FAISS-000)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-000)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000)
@@ -81,18 +81,6 @@ A Retrieval-Augmented Generation system with a custom AWS-based ingestion pipeli
 
 - 🌐 AI-powered Full stack scalable applications
 - ⚡ Automation tools using AI
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snshari80&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snshari80&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=snshari80&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
 
 ---
 
