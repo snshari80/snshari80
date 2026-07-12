@@ -45,8 +45,8 @@ Building intelligent, scalable applications by combining modern web technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
 ---
 
@@ -71,12 +71,13 @@ A multi-agent orchestration system built with **LangGraph**, coordinating three 
 - 🔬 **Research Agent** – gathers and synthesizes external information
 - 🗃️ **SQL Agent** – converts natural language into SQL queries and retrieves structured data
 
-<!-- [🔗 View Repo](https://github.com/<your-username>/<repo-name>) -->
+[🔗 View Repo](https://github.com/snshari80/multi-agent-ui)
+[🔗 View Repo](https://github.com/snshari80/multi-ai-agent)
 
 ### 📖 RAG Pipeline with AWS Ingestion
 A Retrieval-Augmented Generation system with a custom AWS-based ingestion pipeline for indexing and retrieving documents efficiently for LLM-powered Q&A.
 
-<!-- [🔗 View Repo](https://github.com/<your-username>/<repo-name>) -->
+[🔗 View Repo](https://github.com/snshari80/rag-aws-ingestion)
 
 - 🌐 AI-powered Full stack scalable applications
 - ⚡ Automation tools using AI
@@ -90,7 +91,7 @@ A Retrieval-Augmented Generation system with a custom AWS-based ingestion pipeli
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=<your-github-username>&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=snshari80&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
