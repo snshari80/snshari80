@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Nagarajan S</h1>
 <h3 align="center">Generative AI Engineer</h3>
-
 <p align="center">
 Building intelligent, scalable applications by combining modern web technologies with AI.
 </p>
@@ -8,10 +7,12 @@ Building intelligent, scalable applications by combining modern web technologies
 ---
 
 ## 🚀 About Me
-- 💻 Working as a **Generative AI** Engineer building real-world AI applications
+- 💻 Working as a **Generative AI Engineer** building real-world AI applications
 - 🤖 Focused on production-grade AI systems, scalability, and performance
-- ⚡ Focused on building **real-world AI-powered products**
-- 🌱 Exploring advanced AI architectures, evaluation, and optimization 
+- ⚡ Experienced in building **multi-agent systems** using **LangGraph**
+- 🔍 Hands-on with **RAG pipelines** using AWS-based ingestion
+- 🌱 Exploring advanced AI architectures, evaluation, and optimization
+
 ---
 
 ## 🛠️ Tech Stack
@@ -20,11 +21,18 @@ Building intelligent, scalable applications by combining modern web technologies
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 ![LLMs](https://img.shields.io/badge/-LLMs-000)
 ![LangChain](https://img.shields.io/badge/-LangChain-000)
-![Vector DB](https://img.shields.io/badge/-Vector%20Databases-000)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000)
+![RAG](https://img.shields.io/badge/-RAG-000)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=huggingface)
+![FAISS](https://img.shields.io/badge/-FAISS-000)
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-000)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000)
 ![NLP](https://img.shields.io/badge/-NLP-000)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -43,25 +51,51 @@ Building intelligent, scalable applications by combining modern web technologies
 ---
 
 **Core Expertise:**
-
 * 🧠 Large Language Models (LLMs) – Prompt Engineering, RAG, Agents
-* 🔍 Semantic Search & Retrieval – Vector DB, OpenSearch
+* 🤝 Multi-Agent Systems – Orchestration with **LangGraph**
+* 🔍 Semantic Search & Retrieval – FAISS, OpenSearch
+* 📈 LLM Evaluation & Observability – LangSmith
+* 🤗 Hugging Face – models & pipelines
 * 📊 Machine Learning & Deep Learning fundamentals
 * 🗣️ Natural Language Processing (NLP)
-* 🔗 LangChain for building AI workflows & pipelines
+* 🔗 LangChain & LangGraph for building AI workflows & pipelines
 * ⚡ Production-ready AI systems (scalable & optimized)
 
 ---
 
 ## 📌 Featured Projects
-- 🚀 AI-powered apps (LLM, RAG, workflows)
+
+### 🤝 Multi-Agent AI System (LangGraph)
+A multi-agent orchestration system built with **LangGraph**, coordinating three specialized agents:
+- 📚 **Knowledge Agent** – answers queries using domain knowledge
+- 🔬 **Research Agent** – gathers and synthesizes external information
+- 🗃️ **SQL Agent** – converts natural language into SQL queries and retrieves structured data
+
+<!-- [🔗 View Repo](https://github.com/<your-username>/<repo-name>) -->
+
+### 📖 RAG Pipeline with AWS Ingestion
+A Retrieval-Augmented Generation system with a custom AWS-based ingestion pipeline for indexing and retrieving documents efficiently for LLM-powered Q&A.
+
+<!-- [🔗 View Repo](https://github.com/<your-username>/<repo-name>) -->
+
 - 🌐 AI-powered Full stack scalable applications
 - ⚡ Automation tools using AI
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=<your-github-username>&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+## 🤝 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/hari-nagarajan-s" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin" />
